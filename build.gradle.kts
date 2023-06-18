@@ -22,7 +22,7 @@ javaPlatform {
 
 
 xiaohaoMavenPublishing {
-    url = "https://github.com/xiaohaoo/maven-publishing-gradle-plugin"
-    description = "发布到maven仓库的gradle插件"
+    url = "https://github.com/xiaohaoo/xiaohao-dependencies"
+    description = "xiaohao java依赖聚合项目"
     component = "javaPlatform"
 }
