@@ -1,9 +1,8 @@
+
 plugins {
     `java-platform`
     id("com.xiaohaoo.maven-publishing") version "1.0.1"
 }
-
-//apply(plugin = "com.xiaohaoo.maven-publishing")
 
 group = "com.xiaohaoo.dependencies"
 version = "1.0.0"
@@ -23,6 +22,6 @@ javaPlatform {
 
 xiaohaoMavenPublishing {
     url = "https://github.com/xiaohaoo/xiaohao-dependencies"
-    description = "xiaohao java依赖聚合项目"
+    description = "xiaohao Java依赖聚合项目"
     component = "javaPlatform"
 }
