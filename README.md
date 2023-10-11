@@ -1,7 +1,8 @@
 # xiaohao-dependencies
 
 Java依赖聚合项目，引入依赖时可以省略每个类库的版本号
-##使用方法
+
+## 使用方法
 
 - groovy
 
